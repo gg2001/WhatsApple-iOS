@@ -14,6 +14,19 @@
 		C65D59D2224701370019F0C2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C65D59D0224701370019F0C2 /* LaunchScreen.storyboard */; };
 		C65D59DD224701370019F0C2 /* WhatsApple_iOSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C65D59DC224701370019F0C2 /* WhatsApple_iOSTests.swift */; };
 		C65D59E8224701370019F0C2 /* WhatsApple_iOSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C65D59E7224701370019F0C2 /* WhatsApple_iOSUITests.swift */; };
+		C65D59F6224701530019F0C2 /* AppleDetector.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = C65D59F5224701530019F0C2 /* AppleDetector.mlmodel */; };
+		C65D59F9224702350019F0C2 /* AppleLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = C65D59F7224702340019F0C2 /* AppleLogo.png */; };
+		C65D59FA224702350019F0C2 /* Braeburn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C65D59F8224702340019F0C2 /* Braeburn.jpg */; };
+		C65D5A05224702410019F0C2 /* Crispin.png in Resources */ = {isa = PBXBuildFile; fileRef = C65D59FB2247023F0019F0C2 /* Crispin.png */; };
+		C65D5A06224702410019F0C2 /* Gala.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C65D59FC2247023F0019F0C2 /* Gala.jpg */; };
+		C65D5A07224702410019F0C2 /* Pink Lady.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C65D59FD224702400019F0C2 /* Pink Lady.jpg */; };
+		C65D5A08224702410019F0C2 /* Red Delicious.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C65D59FE224702400019F0C2 /* Red Delicious.jpg */; };
+		C65D5A09224702410019F0C2 /* McIntosh.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C65D59FF224702400019F0C2 /* McIntosh.jpg */; };
+		C65D5A0A224702410019F0C2 /* Honeycrisp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C65D5A00224702400019F0C2 /* Honeycrisp.jpg */; };
+		C65D5A0B224702410019F0C2 /* Fuji.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C65D5A01224702400019F0C2 /* Fuji.jpg */; };
+		C65D5A0C224702410019F0C2 /* Golden Delicious.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C65D5A02224702400019F0C2 /* Golden Delicious.jpg */; };
+		C65D5A0D224702410019F0C2 /* camera.png in Resources */ = {isa = PBXBuildFile; fileRef = C65D5A03224702400019F0C2 /* camera.png */; };
+		C65D5A0E224702410019F0C2 /* Granny Smith.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C65D5A04224702400019F0C2 /* Granny Smith.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +60,19 @@
 		C65D59E3224701370019F0C2 /* WhatsApple-iOSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "WhatsApple-iOSUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C65D59E7224701370019F0C2 /* WhatsApple_iOSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhatsApple_iOSUITests.swift; sourceTree = "<group>"; };
 		C65D59E9224701370019F0C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C65D59F5224701530019F0C2 /* AppleDetector.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = AppleDetector.mlmodel; path = ../../../Documents/AppleDetector.mlmodel; sourceTree = "<group>"; };
+		C65D59F7224702340019F0C2 /* AppleLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = AppleLogo.png; path = ../../../Documents/WhatsApple/WhatsApple.playground/Resources/AppleLogo.png; sourceTree = "<group>"; };
+		C65D59F8224702340019F0C2 /* Braeburn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Braeburn.jpg; path = ../../../Documents/WhatsApple/WhatsApple.playground/Resources/Braeburn.jpg; sourceTree = "<group>"; };
+		C65D59FB2247023F0019F0C2 /* Crispin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Crispin.png; path = ../../../Documents/WhatsApple/WhatsApple.playground/Resources/Crispin.png; sourceTree = "<group>"; };
+		C65D59FC2247023F0019F0C2 /* Gala.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Gala.jpg; path = ../../../Documents/WhatsApple/WhatsApple.playground/Resources/Gala.jpg; sourceTree = "<group>"; };
+		C65D59FD224702400019F0C2 /* Pink Lady.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Pink Lady.jpg"; path = "../../../Documents/WhatsApple/WhatsApple.playground/Resources/Pink Lady.jpg"; sourceTree = "<group>"; };
+		C65D59FE224702400019F0C2 /* Red Delicious.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Red Delicious.jpg"; path = "../../../Documents/WhatsApple/WhatsApple.playground/Resources/Red Delicious.jpg"; sourceTree = "<group>"; };
+		C65D59FF224702400019F0C2 /* McIntosh.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = McIntosh.jpg; path = ../../../Documents/WhatsApple/WhatsApple.playground/Resources/McIntosh.jpg; sourceTree = "<group>"; };
+		C65D5A00224702400019F0C2 /* Honeycrisp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Honeycrisp.jpg; path = ../../../Documents/WhatsApple/WhatsApple.playground/Resources/Honeycrisp.jpg; sourceTree = "<group>"; };
+		C65D5A01224702400019F0C2 /* Fuji.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Fuji.jpg; path = ../../../Documents/WhatsApple/WhatsApple.playground/Resources/Fuji.jpg; sourceTree = "<group>"; };
+		C65D5A02224702400019F0C2 /* Golden Delicious.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Golden Delicious.jpg"; path = "../../../Documents/WhatsApple/WhatsApple.playground/Resources/Golden Delicious.jpg"; sourceTree = "<group>"; };
+		C65D5A03224702400019F0C2 /* camera.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = camera.png; path = ../../../Documents/WhatsApple/WhatsApple.playground/Resources/camera.png; sourceTree = "<group>"; };
+		C65D5A04224702400019F0C2 /* Granny Smith.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Granny Smith.jpg"; path = "../../../Documents/WhatsApple/WhatsApple.playground/Resources/Granny Smith.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +123,19 @@
 		C65D59C6224701340019F0C2 /* WhatsApple-iOS */ = {
 			isa = PBXGroup;
 			children = (
+				C65D59F7224702340019F0C2 /* AppleLogo.png */,
+				C65D59F8224702340019F0C2 /* Braeburn.jpg */,
+				C65D5A03224702400019F0C2 /* camera.png */,
+				C65D59FB2247023F0019F0C2 /* Crispin.png */,
+				C65D5A01224702400019F0C2 /* Fuji.jpg */,
+				C65D59FC2247023F0019F0C2 /* Gala.jpg */,
+				C65D5A02224702400019F0C2 /* Golden Delicious.jpg */,
+				C65D5A04224702400019F0C2 /* Granny Smith.jpg */,
+				C65D5A00224702400019F0C2 /* Honeycrisp.jpg */,
+				C65D59FF224702400019F0C2 /* McIntosh.jpg */,
+				C65D59FD224702400019F0C2 /* Pink Lady.jpg */,
+				C65D59FE224702400019F0C2 /* Red Delicious.jpg */,
+				C65D59F5224701530019F0C2 /* AppleDetector.mlmodel */,
 				C65D59C7224701340019F0C2 /* AppDelegate.swift */,
 				C65D59C9224701340019F0C2 /* ViewController.swift */,
 				C65D59CB224701340019F0C2 /* Main.storyboard */,
@@ -229,9 +268,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C65D5A07224702410019F0C2 /* Pink Lady.jpg in Resources */,
+				C65D5A05224702410019F0C2 /* Crispin.png in Resources */,
+				C65D59FA224702350019F0C2 /* Braeburn.jpg in Resources */,
+				C65D5A0A224702410019F0C2 /* Honeycrisp.jpg in Resources */,
+				C65D5A06224702410019F0C2 /* Gala.jpg in Resources */,
+				C65D5A0B224702410019F0C2 /* Fuji.jpg in Resources */,
+				C65D5A08224702410019F0C2 /* Red Delicious.jpg in Resources */,
 				C65D59D2224701370019F0C2 /* LaunchScreen.storyboard in Resources */,
+				C65D5A0D224702410019F0C2 /* camera.png in Resources */,
+				C65D5A0E224702410019F0C2 /* Granny Smith.jpg in Resources */,
 				C65D59CF224701370019F0C2 /* Assets.xcassets in Resources */,
 				C65D59CD224701340019F0C2 /* Main.storyboard in Resources */,
+				C65D5A09224702410019F0C2 /* McIntosh.jpg in Resources */,
+				C65D59F9224702350019F0C2 /* AppleLogo.png in Resources */,
+				C65D5A0C224702410019F0C2 /* Golden Delicious.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,6 +309,7 @@
 			files = (
 				C65D59CA224701340019F0C2 /* ViewController.swift in Sources */,
 				C65D59C8224701340019F0C2 /* AppDelegate.swift in Sources */,
+				C65D59F6224701530019F0C2 /* AppleDetector.mlmodel in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -435,6 +487,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = CLMP96V6R4;
 				INFOPLIST_FILE = "WhatsApple-iOS/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -453,6 +506,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = CLMP96V6R4;
 				INFOPLIST_FILE = "WhatsApple-iOS/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
