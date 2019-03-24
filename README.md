@@ -4,4 +4,10 @@
 
 This is the iOS version of [WhatsApple](https://github.com/gg2001/WhatsApple), a Swift Playground that uses machine learning to classify pictures of apples.
 
+## How to use
+
+1. `git clone https://github.com/gg2001/WhatsApple-iOS.git`
+2. Open WhatsApple-iOS.xcworkspace
+3. Drag and drop everything from the assets folder into the project navigator in Xcode, under the WhatsApple-iOS folder (the same folder that has ViewController.swift).
+
 ![UI](screenshots/UI.PNG)
