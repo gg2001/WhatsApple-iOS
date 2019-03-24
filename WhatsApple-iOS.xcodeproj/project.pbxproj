@@ -26,6 +26,7 @@
 		C65D59D2224701370019F0C2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C65D59D0224701370019F0C2 /* LaunchScreen.storyboard */; };
 		C65D59DD224701370019F0C2 /* WhatsApple_iOSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C65D59DC224701370019F0C2 /* WhatsApple_iOSTests.swift */; };
 		C65D59E8224701370019F0C2 /* WhatsApple_iOSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C65D59E7224701370019F0C2 /* WhatsApple_iOSUITests.swift */; };
+		C6F6440022470FFE0082EE6F /* camera.png in Resources */ = {isa = PBXBuildFile; fileRef = C6F643FF22470FFD0082EE6F /* camera.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -71,6 +72,7 @@
 		C65D59E3224701370019F0C2 /* WhatsApple-iOSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "WhatsApple-iOSUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C65D59E7224701370019F0C2 /* WhatsApple_iOSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhatsApple_iOSUITests.swift; sourceTree = "<group>"; };
 		C65D59E9224701370019F0C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C6F643FF22470FFD0082EE6F /* camera.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = camera.png; path = assets/camera.png; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +124,7 @@
 			isa = PBXGroup;
 			children = (
 				C649BA2122470E7B0048B170 /* AppleDetector.mlmodel */,
+				C6F643FF22470FFD0082EE6F /* camera.png */,
 				C649BA1D22470E7B0048B170 /* AppleLogo.png */,
 				C649BA1F22470E7B0048B170 /* Braeburn.jpg */,
 				C649BA1A22470E7B0048B170 /* Crispin.png */,
@@ -269,6 +272,7 @@
 				C65D59D2224701370019F0C2 /* LaunchScreen.storyboard in Resources */,
 				C649BA2322470E7B0048B170 /* Red Delicious.jpg in Resources */,
 				C649BA2822470E7B0048B170 /* Gala.jpg in Resources */,
+				C6F6440022470FFE0082EE6F /* camera.png in Resources */,
 				C649BA2722470E7B0048B170 /* Pink Lady.jpg in Resources */,
 				C649BA2A22470E7B0048B170 /* Fuji.jpg in Resources */,
 				C649BA2522470E7B0048B170 /* Granny Smith.jpg in Resources */,
