@@ -9,6 +9,10 @@ This is the iOS app version of [WhatsApple](https://github.com/gg2001/WhatsApple
 1. `git clone https://github.com/gg2001/WhatsApple-iOS.git`
 2. `cd WhatsApple-iOS`
 3. Open WhatsApple-iOS.xcworkspace
-4. Drag and drop everything from the assets folder into the project navigator in Xcode, under the WhatsApple-iOS folder (the same folder that has ViewController.swift).
+
+If there are any issues with loading assets:
+
+1. Delete all red files in under the WhatsApple-iOS folder (the same folder that has ViewController.swift) in the Xcode project navigator.
+1. Drag and drop everything from the assets folder back into the same WhatsApple-iOS folder in the Xcode project navigator.
 
 ![UI](screenshots/UI.PNG)
